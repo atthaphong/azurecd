@@ -1,6 +1,5 @@
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\MvcApplication1.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\MvcApplication1.pdb
-C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\Antlr3.Runtime.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\EntityFramework.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
@@ -9,13 +8,11 @@ C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Net.Http.F
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Http.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Http.WebHost.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Mvc.dll
-C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Optimization.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Providers.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.Razor.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.WebPages.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Web.WebPages.Razor.dll
-C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\WebGrease.dll
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\EntityFramework.xml
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\Newtonsoft.Json.xml
 C:\Users\atthaphong\Garage\azurecd\AzureCD\MvcApplication1\bin\System.Net.Http.Formatting.xml
