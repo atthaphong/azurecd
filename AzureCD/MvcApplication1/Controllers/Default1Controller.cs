@@ -13,7 +13,7 @@ namespace MvcApplication1.Controllers
 
         public string Index()
         {
-            return "ดีใจน้ำตาแทบไหล ขอแชร์นะคะ";
+            return "ดีใจน้ำตาแทบไหล ขอแชร์นะคะ กรี๊ดดด";
         }
 
     }
